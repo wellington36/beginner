@@ -1,24 +1,6 @@
 #lang racket
 
-(define a11 1)
-(define a12 2)
-(define a13 3)
-(define a14 0)
-(define a15 0)
 
-(define a21 43)
-(define a22 3)
-(define a23 0)
-
-(define a31 4)
-(define a32 0)
-(define a33 9)
-
-(define lst1 (list a11 a12 a13 a14 a15))
-(define lst2 (list a21 a22 a23))
-(define lst3 (list a31 a32 a33))
-
-(define lstb (list lst1 lst2 lst2))
 
 (define (lz l i)
   (if (null? (fz l i))
