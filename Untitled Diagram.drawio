@@ -86,10 +86,10 @@
           <mxGeometry x="-740" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zE8D9n0AD2DQ6f-6iGs--9" value="COM-Poisson" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-220" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zE8D9n0AD2DQ6f-6iGs--10" value="Twee&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;die distribution&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-220" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9wU188U87-LJlL2i7cj_-0" value="Related papers" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-567.5" y="510" width="275" height="250" as="geometry">
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="COZCCoLTWlMAQqWtDqHu-2" value="(Check notes to many more)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
